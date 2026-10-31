@@ -110,19 +110,19 @@
 <text fill="#c9d1d9" font-size="14px">
 <tspan x="392" y="24">shadowzdollar@github ------------------------------------------</tspan>
 <tspan x="392" y="44"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Ubuntu LTS, Linux</tspan></tspan>
-<tspan x="392" y="64"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">YOUR_AGE years</tspan></tspan>
-<tspan x="392" y="84"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">YOUR_SCHOOL_OR_COMPANY</tspan></tspan>
-<tspan x="392" y="104"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Backend and AI/ML Engineer</tspan></tspan>
-<tspan x="392" y="124"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">VSCode</tspan></tspan>
+<tspan x="392" y="64"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">17</tspan></tspan>
+<tspan x="392" y="84"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Rwanda Coding academy</tspan></tspan>
+<tspan x="392" y="104"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Backend(JAVA) and AI/ML Engineer</tspan></tspan>
+<tspan x="392" y="124"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">VSCode && Intellij IDE</tspan></tspan>
 <tspan x="392" y="154"><tspan class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, TypeScript, Java</tspan></tspan>
 <tspan x="392" y="174"><tspan class="cc">. </tspan><tspan class="key">Languages.Computer</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">HTML, CSS, JSON, SQL</tspan></tspan>
 <tspan x="392" y="194"><tspan class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">English, Kinyarwanda, French</tspan></tspan>
-<tspan x="392" y="224"><tspan class="cc">. </tspan><tspan class="key">Hobbies.Software</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">YOUR_HOBBY</tspan></tspan>
-<tspan x="392" y="244"><tspan class="cc">. </tspan><tspan class="key">Hobbies.Hardware</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">YOUR_HOBBY</tspan></tspan>
+<tspan x="392" y="224"><tspan class="cc">. </tspan><tspan class="key">Hobbies.Software</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Deep Coding</tspan></tspan>
+<tspan x="392" y="244"><tspan class="cc">. </tspan><tspan class="key">Hobbies.Hardware</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Robots assembling</tspan></tspan>
 <tspan x="392" y="274"><tspan class="cc">- Contact ---------------------------------------------</tspan></tspan>
-<tspan x="392" y="294"><tspan class="cc">. </tspan><tspan class="key">Email.Personal</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">YOUR_EMAIL</tspan></tspan>
-<tspan x="392" y="314"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">YOUR_HANDLE</tspan></tspan>
-<tspan x="392" y="334"><tspan class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">YOUR_DISCORD</tspan></tspan>
+<tspan x="392" y="294"><tspan class="cc">. </tspan><tspan class="key">Email.Personal</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">shadowzdollar@gmail.com</tspan></tspan>
+<tspan x="392" y="314"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">linkedin.com</tspan></tspan>
+<tspan x="392" y="334"><tspan class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">discord.com</tspan></tspan>
 <tspan x="392" y="364"><tspan class="cc">- GitHub Stats ----------------------------------------</tspan></tspan>
 <tspan x="392" y="384"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value" id="repo_data">24</tspan></tspan>
 <tspan x="392" y="404"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value" id="commit_data">2,361</tspan></tspan>
