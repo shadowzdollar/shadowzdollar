@@ -125,8 +125,8 @@
 <tspan x="392" y="334"><tspan class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">discord.com</tspan></tspan>
 <tspan x="392" y="364"><tspan class="cc">- GitHub Stats ----------------------------------------</tspan></tspan>
 <tspan x="392" y="384"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value" id="repo_data">24</tspan></tspan>
-<tspan x="392" y="404"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value" id="commit_data">2,414</tspan></tspan>
-<tspan x="392" y="424"><tspan class="cc">. </tspan><tspan class="key">Followers</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value" id="follower_data">3</tspan></tspan>
-<tspan x="392" y="444"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value" id="loc_data">504,326 ( 627,480++, 123,154-- )</tspan></tspan>
+<tspan x="392" y="404"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value" id="commit_data">2,418</tspan></tspan>
+<tspan x="392" y="424"><tspan class="cc">. </tspan><tspan class="key">Followers</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value" id="follower_data">9</tspan></tspan>
+<tspan x="392" y="444"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value" id="loc_data">504,495 ( 627,649++, 123,154-- )</tspan></tspan>
 </text>
 </svg>
